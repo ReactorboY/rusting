@@ -1,3 +1,3 @@
-# Reactor
+# Let's Rust
 
-_Game Engine Built Using Rust_ (**_IN PROGRESS_**)
+Creating this Repo to learn rust everyday
